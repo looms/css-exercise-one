@@ -1,17 +1,21 @@
 body{
-  font-size: 14px;
-}
+  font-size: 14px;}
 
+/*Navigation, Added Hyphen!*/
+
+/*margin-left added due to small sect*/
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
-  margin-top: -10px;
+  margin-top: 10px;
+  margin-left: -0.5%;
   position: fixed;
   width: 100%;
 }
 
 section {
   margin: 0 auto;
+  padding-top: 100px;
   width: 60%;
 }
 
